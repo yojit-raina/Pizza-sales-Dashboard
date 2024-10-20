@@ -1,9 +1,10 @@
 # Pizza-sales-Dashboard
 Power BI dashboard - Analyzing pizza sales trends
+
 **Purpose of the Project:**
 The goal of this project was to create a Power BI dashboard to analyze and visualize pizza sales data, covering key metrics such as total revenue, order trends, product performance, and customer behavior. By leveraging Power BI’s interactive capabilities, this dashboard provides actionable insights that can help businesses optimize sales strategies, improve inventory management, and better understand customer preferences across different pizza categories and sizes.
 **Insights Derived:**
-1. Revenue and Sales Overview:
+1. **Revenue and Sales Overview:**
       Total Revenue: $817.86K generated from pizza sales between January 2015 and December 2015.
       Total Orders: 21,350 total orders placed, with 49,574 pizzas sold.
       Average Order Value: Each order had an average value of $38.31.

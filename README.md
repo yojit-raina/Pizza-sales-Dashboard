@@ -1,6 +1,6 @@
 # Pizza-sales-Dashboard
 
-Power BI dashboard - Analyzing pizza sales trends
+**Power BI dashboard - Analyzing pizza sales trends**
 
 **Purpose of the Project:**
 
